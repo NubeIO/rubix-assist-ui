@@ -1,0 +1,32 @@
+{
+  "name": "nubey",
+  "assetdir": "frontend/dist",
+  "frontend:build": "npm run build",
+  "frontend:install": "npm install",
+  "frontend:dev": "",
+  "frontend:dev:watcher": "",
+  "wailsjsdir": "frontend/src",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "nubey",
+  "OutputType": "",
+  "Platform": "",
+  "runNonNativeBuildHooks": false,
+  "postBuildHooks": null,
+  "Author": {
+    "name": "NubeDev",
+    "email": "aidan@enviroservices.com.au"
+  },
+  "Info": {
+    "companyName": "nubey",
+    "productName": "nubey",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright.........",
+    "comments": "Built using Wails (https://wails.app)"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": "",
+  "nsisType": ""
+}
