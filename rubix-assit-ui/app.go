@@ -10,7 +10,6 @@ type App struct {
 }
 
 // NewApp creates a new App application struct
-// NewApp 创建一个新的 App 应用程序
 func NewApp() *App {
 	return &App{}
 }
