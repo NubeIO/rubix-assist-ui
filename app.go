@@ -38,6 +38,7 @@ func (init *App) shutdown(ctx context.Context) {
 
 // Greet returns a greeting for the given name
 func (init *App) Greet(name string) string {
+	fmt.Println("name", name)
 	return fmt.Sprintf("Hello %s!", name)
 }
 
