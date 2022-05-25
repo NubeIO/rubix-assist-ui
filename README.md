@@ -2,6 +2,11 @@
 
 ## About
 
+## install wails
+```
+go install github.com/wailsapp/wails/v2/cmd/wails@latest
+wails doctor
+```
 
 ## Live Development
 
